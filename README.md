@@ -19,10 +19,9 @@ Here's a quick guide to help you add the script to Shortcuts on iOS and execute 
 
 ### 3. Copy + Paste the Code
 1. Copy the code from the "average-no-key(shortcuts).txt" file above.
-2. Tap on the **Run JavaScript on Web Page** action.
-3. Delete the placeholder code and paste the copied code into the text field provided.
-4. Tap the blue section that says **"Web Page"** and click **"Shortcut Input"**. After this changes, click the blue **"Nowhere"** text and turn on **"Show in Share Sheet"**.
-5. Rename the shortcut if needed.
+2. Delete the placeholder code and paste the copied code into the text field provided.
+3. Tap the blue section that says **"Web Page"** and click **"Shortcut Input"**. After this changes, click the blue **"Nowhere"** text and turn on **"Show in Share Sheet"**.
+4. Rename the shortcut if needed.
 
 ### 6. Test the Shortcut
 1. Open Safari.
