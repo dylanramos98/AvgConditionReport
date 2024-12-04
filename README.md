@@ -17,7 +17,7 @@ Here's a quick guide to help you add the script to Shortcuts on iOS and execute 
 2. In the search bar, type **"Run JavaScript on Web Page"** and select it from the list of actions.
 3. The action will be added to your shortcut.
 
-### 3. Copy + paste the Code
+### 3. Copy + Paste the Code
 1. Copy the code from the "average-no-key(shortcuts).txt" file above.
 2. Tap on the **Run JavaScript on Web Page** action.
 3. Delete the placeholder code and paste the copied code into the text field provided.
