@@ -1,3 +1,5 @@
+var result;
+
 // General
 document.querySelector('select[name=\"general_condition\"]').value = 'average';
 document.querySelector('select[name=\"mechanical_condition\"]').value = 'unknown';
@@ -48,3 +50,5 @@ document.querySelector('select[name=\"tire_rf\"]').value = 'Average';
 document.querySelector('select[name=\"tire_rr\"]').value = 'Average';
 document.querySelector('select[name=\"tire_spare\"]').value = 'Average';
 document.querySelector('select[name=\"wheel_cover_count\"]').value = 'N/A';
+
+completion(result);
