@@ -1,0 +1,50 @@
+// General
+document.querySelector('select[name=\"general_condition\"]').value = 'average';
+document.querySelector('select[name=\"mechanical_condition\"]').value = 'unknown';
+document.querySelector('select[name=\"interior_condition\"]').value = 'average';
+
+// Keys/Battery
+document.querySelector('select[name=\"ignition_keys\"]').value = 'No';
+document.querySelector('select[name=\"secondary_keys\"]').value = 'N/A';
+document.querySelector('select[name=\"battery\"]').value = 'N/A';
+
+// Options
+document.querySelector('select[name=\"stereo\"]').value = 'AM/FM/CD';
+
+// Condition
+document.querySelector('select[name=\"body\"]').value = 'Average';
+document.querySelector('select[name=\"paint\"]').value = 'Average';
+document.querySelector('select[name=\"able_to_drive\"]').value = 'No Keys';
+
+// Driver's Side
+document.querySelector('select[name=\"driver_front_quarter_panel\"]').value = 'Average';
+document.querySelector('select[name=\"driver_front_door\"]').value = 'Average';
+document.querySelector('select[name=\"driver_rear_door\"]').value = 'Average';
+document.querySelector('select[name=\"driver_rear_quarter_panel\"]').value = 'Average';
+
+// Passenger's Side
+document.querySelector('select[name=\"passenger_front_quarter_panel\"]').value = 'Average';
+document.querySelector('select[name=\"passenger_front_door\"]').value = 'Average';
+document.querySelector('select[name=\"passenger_rear_door\"]').value = 'Average';
+document.querySelector('select[name=\"passenger_rear_quarter_panel\"]').value = 'Average';
+
+// Top
+document.querySelector('select[name=\"hood\"]').value = 'Average';
+document.querySelector('select[name=\"roof_detail\"]').value = 'Average';
+document.querySelector('select[name=\"trunk\"]').value = 'Average';
+document.querySelector('select[name=\"tailgate_hatchback\"]').value = 'N/A';
+
+// Bumper
+document.querySelector('select[name=\"bumper_front\"]').value = 'Average';
+document.querySelector('select[name=\"bumper_rear\"]').value = 'Average';
+
+// Glass
+document.querySelector('select[name=\"glass\"]').value = 'Good';
+
+// Tires
+document.querySelector('select[name=\"tire_lf\"]').value = 'Average';
+document.querySelector('select[name=\"tire_lr\"]').value = 'Average';
+document.querySelector('select[name=\"tire_rf\"]').value = 'Average';
+document.querySelector('select[name=\"tire_rr\"]').value = 'Average';
+document.querySelector('select[name=\"tire_spare\"]').value = 'Average';
+document.querySelector('select[name=\"wheel_cover_count\"]').value = 'N/A';
