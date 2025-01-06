@@ -1,6 +1,6 @@
 # AvgConditionReport
 
-This script will quickly change all fields on the "Standard Car" condition report to "Average."
+This script will quickly change all fields on Recovery Database Network's "Standard Car" condition report to "Average."
 
 Here's a quick guide to help you add the script to Shortcuts on iOS and execute in Safari:
 
